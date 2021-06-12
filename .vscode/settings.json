@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "initializer_list": "c",
+        "string_view": "c",
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "cstdio": "cpp",
+        "iostream": "cpp"
+    }
+}
